@@ -242,13 +242,6 @@ body {
     color: var(--blue);
 }
 
-.section__title__right {
-    display: inline-block;
-    margin-right: 3rem;
-    font-size: 1.2rem;
-    color: var(--blue);
-}
-
 .section__subtitle {
     font-size: 3rem;
     color: var(--black);
@@ -329,6 +322,7 @@ body {
         width: 40vmin;
         height: 100%;
         margin-bottom: 0;
+        box-shadow: none;
     }
 
     .header__img_container__caption {
